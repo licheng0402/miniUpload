@@ -1,0 +1,19 @@
+{
+    "name": "licheng/miniupload",
+    "description": "A simple and mini PHP upload class.",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "licheng",
+            "email": "php_lee@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "MiniUpload\\": "src/"
+        }
+    }
+}
